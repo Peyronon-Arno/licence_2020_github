@@ -52,6 +52,11 @@ const movies = [
     title: "Interstellar",
     synopsis: "Le film raconte les aventures d’un groupe d’explorateurs qui utilisent une faille récemment découverte dans l’espace-temps afin de repousser les limites humaines et partir à la conquête des distances astronomiques dans un voyage interstellaire.",
     ratings: 5,
+  },
+  {
+    title: "Fast and furious",
+    synopsis: "Un film de voiture de muy qualitad",
+    ratings: 8,
   }
 ]
 
